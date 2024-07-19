@@ -1,4 +1,3 @@
-echo "
 # **Moo-Gaurd**
 
 **Guarding Your Herd, One Moo at a Time!**
